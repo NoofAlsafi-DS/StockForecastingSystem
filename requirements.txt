@@ -3,5 +3,4 @@ yfinance
 scikit-learn
 pandas
 numpy
-scipy
-statsmodels==0.14.2
+matplotlib
